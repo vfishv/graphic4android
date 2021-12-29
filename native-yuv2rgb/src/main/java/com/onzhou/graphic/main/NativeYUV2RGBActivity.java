@@ -10,6 +10,7 @@ import android.widget.Button;
 
 import com.onzhou.common.base.AbsBaseActivity;
 import com.onzhou.common.task.AssertReleaseTask;
+import com.onzhou.common.task.AsyncTaskCompat;
 import com.onzhou.graphic.yuv2rgb.NativeYUV2RGB;
 import com.onzhou.graphic.yuv2rgb.R;
 
