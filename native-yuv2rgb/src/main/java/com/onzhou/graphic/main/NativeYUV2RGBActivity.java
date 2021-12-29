@@ -2,7 +2,6 @@ package com.onzhou.graphic.main;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v4.os.AsyncTaskCompat;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
